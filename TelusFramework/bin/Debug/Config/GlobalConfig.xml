@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TelusFramework>
+  <RunSettings>
+    <AUT>https://demoqa.com/automation-practice-form</AUT>
+    <!-- Possible flag Chrome,Firefox, IE-->
+    <Browser>Chrome</Browser>
+    <!-- Possible flag Smoke, Regression, Unit  -->
+    <TestType>RegressionTest</TestType>
+    <!-- Possible Flag Y, N -->
+    <IsLog>Y</IsLog>
+    <LogPath>D:\\TelusAutoLogs\\</LogPath>
+    <BuildName>DemoBuild</BuildName>
+    <!-- Possible Flag Y, N -->
+    <IsReport>N</IsReport>
+    <UserName>EAutoTeam</UserName>
+    <!-- Possible flag Selenium, Specflow  -->
+    <Technology>Selenium</Technology>
+  </RunSettings>
+</TelusFramework>
